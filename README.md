@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻Sou uma Data Engineer em formação, apaixonada por tecnologia e dados. Atualmente, estou desenvolvendo habilidades em Business Intelligence e Engenharia de Dados, com foco em gerenciamento de banco de dados e análise de dados.</p>
+<p align="left">💻Sou uma Engenheira de Dados em formação, apaixonada por tecnologia e dados. Atualmente, estou desenvolvendo habilidades em Business Intelligence e Engenharia de Dados, com foco em gerenciamento de banco de dados e análise de dados.</p>
 
 ###
 
