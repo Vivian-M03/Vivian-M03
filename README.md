@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻Sou uma Engenheira de Dados em formação, apaixonada por tecnologia e dados. Atualmente, estou desenvolvendo habilidades em Business Intelligence e Engenharia de Dados, com foco em gerenciamento de banco de dados e análise de dados.</p>
+<p align="left">💻Sou uma Engenheira de Dados com foco em automação de processos e desenvolvimento de soluções que transformam dados brutos em insights estratégicos. Atuo na construção de produtos de dados, incluindo pipelines de web scraping, o que otimizam a tomada de decisão e impulsionam resultados de negócio.</p>
 
 ###
 
